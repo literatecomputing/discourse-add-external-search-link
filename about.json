@@ -3,7 +3,7 @@
   "license_url": https://github.com/literatecomputing/discourse-add-external-search-link/blob/main/LICENSE,
   "assets": {
   },
-  "authors": "pfaffman"
+  "authors": "pfaffman",
   "name": "Add External Search Link",
   "component": true
 }
