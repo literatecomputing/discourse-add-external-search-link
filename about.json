@@ -1,6 +1,6 @@
 {
-  "about_url": https://github.com/literatecomputing/discourse-add-external-search-link,
-  "license_url": https://github.com/literatecomputing/discourse-add-external-search-link/blob/main/LICENSE,
+  "about_url": "https://github.com/literatecomputing/discourse-add-external-search-link",
+  "license_url": "https://github.com/literatecomputing/discourse-add-external-search-link/blob/main/LICENSE",
   "assets": {
   },
   "authors": "pfaffman",
